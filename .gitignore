@@ -1,0 +1,4 @@
+.env
+sec_all_form_data.csv
+temp/filings/*
+temp/images/*
